@@ -1,9 +1,15 @@
 import React from 'react';
 import './Header.css';
+import logo from '../../logo.png'; // Tell webpack this JS file uses this image
+
+
 
 const Header = () => {
     return (
         <header>
+            <a href='/'>
+                <img src={logo} alt='Optica' height={70} width={70} />
+            </a>
             <h1>Óptica Visión</h1>
             <nav>
                 <a href="/">Inicio</a>
