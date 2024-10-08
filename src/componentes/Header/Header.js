@@ -10,7 +10,6 @@ const Header = () => {
             <a href='/'>
                 <img src={logo} alt='Optica' height={70} width={70} />
             </a>
-            <h1>Óptica Visión</h1>
             <nav>
                 <a href="/">Inicio</a>
                 <a href="/productos">Productos</a>
