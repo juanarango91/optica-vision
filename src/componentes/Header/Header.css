@@ -1,7 +1,7 @@
 header {
     background-color: #376c79;
     color: white;
-    padding: 10px;
+    padding: 25px;
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-between;
@@ -11,9 +11,10 @@ header {
 }
 nav a {
     color: white;
-    margin: 0 15px;
+    margin: 0 25px;
     text-decoration: none;
     block-size: auto;
+
     
     
 }

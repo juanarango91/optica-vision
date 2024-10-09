@@ -5,3 +5,14 @@ ul {
     list-style-type: none;
     padding: 0;
 }
+ul li {
+    display: inline-block;
+  list-style: none;
+  padding: 6px 20px;
+  font-weight: 500;
+  font-size: 1.7rem;
+  color: #1976D2;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
