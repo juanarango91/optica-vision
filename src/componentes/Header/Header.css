@@ -1,11 +1,12 @@
 header {
-    background-color: #4CAf50;
+    background-color: #376c79;
     color: white;
     padding: 10px;
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-between;
     align-items: center;
+    
    
 }
 nav a {
